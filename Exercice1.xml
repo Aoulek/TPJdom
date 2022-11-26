@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<personnes>
+  <etudiant classe="LSI1">
+    <nom>SARSRI</nom>
+    <prenom>Hamid</prenom>
+  </etudiant>
+  <etudiant classe="LSI2">
+    <nom>KRIMI</nom>
+    <prenom>Nihal</prenom>
+  </etudiant>
+  <etudiant classe="LSI3">
+    <nom>SALMI</nom>
+    <prenom>Jawad</prenom>
+  </etudiant>
+  <etudiant classe="LSI3">
+    <nom>RAHALI</nom>
+    <prenom>Imad</prenom>
+  </etudiant>
+</personnes>
+
